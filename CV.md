@@ -18,9 +18,10 @@ Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals
 **+ Leadership:** Managing distributed teams, mentoring, art direction.
 **+ Technical:** Accessibility, mobile app design, user-testing.
 
-## Employments
+## Engagements
 
-## SUBATOMIK, launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. [BLOCKCHAIN][DE-FI][Developing]
+### SUBATOMIK | Owner + Operator | October 2023 to present
+Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. [BLOCKCHAIN][DE-FI][Developing]
 
 ### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 UX lead for the Mercedes-Benz account which includes the US and Canada passenger car websites, Mercedes me owners app, MB Vans, dealership tools and immersive experiences, and Mercedes-Benz financial services. Currently the account is at 40mm in annual revenue with over 100 team members. I have initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. I collaborated on several projects with the design and engineering teams at Daimler in Germany. I manage experience directors and designers, and am active in the leadership of the account as a whole. Created and ran an 8-week innovation challenge program for our interns focused on critical thinking regarding the metaverse and Web 3.0. Member of the account’s Equality in Action committee, focused on volunteering initiatives. Mentor for the Women’s Leadership Network.
