@@ -1,16 +1,16 @@
 # Kyle Outlaw | CV
+# Designer
 
 
 ## Hello! 
-I'm Kyle, a product design leader based out of New York. My main areas of focus have been on human-centered design, rapid prototyping, user research and testing, data-driven design, and mentoring. These days I've been most interested in the decentralized web, and advances in AI and machine learning — as well as the implications for both the tools we use and the experiences that we build for customers.
+
 
 [kyleoutlaw.io](https://kyleoutlaw.io)  |  
 
 
 ## About me
-I have 20+ years experience in digital design, and have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. I have been a speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Interactive Telecommunication Program. 
+30+ years experience in digital design, and have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Interactive Telecommunication Program. 
 
-Before starting my design career I taught English in Japan for two and a half years and travelled around Asia with my mountain bike. When not working I like to travel, run, meditate, read, sketch, play bass guitar, create analog and digital art, listen to music, and eat vegan food.
 
 ## Skills
 
