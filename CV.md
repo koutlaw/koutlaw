@@ -1,15 +1,15 @@
-# Kyle Outlaw | CV
-# Designer
+# Kyle Outlaw | Designer + Technologist | v 58.6
+
+[kyleoutlaw.io](https://kyleoutlaw.io)  |  [subatomik.co](https://subatomik.co)  
 
 
-## Hello! 
+## About
 
+Designer and contemplative. Unhealthy book addiction @ Subatomik.
 
-[kyleoutlaw.io](https://kyleoutlaw.io)  |  
+30+ years experience in digital design, and have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. 
 
-
-## About me
-30+ years experience in digital design, and have worked for agencies including Publicis Sapient, Razorfish, R/GA, and helped found a startup that was sold for $44 million. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. I am a graduate of NYU's Interactive Telecommunication Program. 
+Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. Graduate of NYU's Interactive Telecommunication Program and a contemplative at the Community of the Incarnation Community of the Incarnation, a new monastic community founded at the Cathedral of the Incarnation in Garden City, New York.
 
 
 ## Skills
