@@ -4,7 +4,7 @@
 ## Hello! 
 I'm Kyle, a product design leader based out of New York. My main areas of focus have been on human-centered design, rapid prototyping, user research and testing, data-driven design, and mentoring. These days I've been most interested in the decentralized web, and advances in AI and machine learning — as well as the implications for both the tools we use and the experiences that we build for customers.
 
-[kyleoutlaw.io](https://kyleoutlaw.io)  |  kyle@strangercreative.com  
+[kyleoutlaw.io](https://kyleoutlaw.io)  |  
 
 
 ## About me
@@ -19,10 +19,6 @@ Before starting my design career I taught English in Japan for two and a half ye
 **+ Technical:** Accessibility, mobile app design, user-testing.
   
 ## Employment history
-
-### Stranger Creative | Head of Product | October 2023 to Present
-
-Stranger Creative is an independent creative agency that provides creative, UX services to clients such as Google, New York Life, Unilever, Glossier, and American Eagle. Partnering with managing director to scale the business through operational support and business growth initiatives. Leveraging leadership skills and experience to model, prototype, and iterate on ways to improve studio processes. Collaborating with cross-functional teams and stakeholders, including Product Design, Brand and Marketing, and User Experience Research specialists.  
 
 ### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 UX lead for the Mercedes-Benz account which includes the US and Canada passenger car websites, Mercedes me owners app, MB Vans, dealership tools and immersive experiences, and Mercedes-Benz financial services. Currently the account is at 40mm in annual revenue with over 100 team members. I have initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. I collaborated on several projects with the design and engineering teams at Daimler in Germany. I manage experience directors and designers, and am active in the leadership of the account as a whole. Created and ran an 8-week innovation challenge program for our interns focused on critical thinking regarding the metaverse and Web 3.0. Member of the account’s Equality in Action committee, focused on volunteering initiatives. Mentor for the Women’s Leadership Network.
