@@ -1,15 +1,20 @@
-# Kyle Outlaw | Designer + Technologist | v 58.6
+# Kyle Outlaw | Designer + Technologist 
 
 [kyleoutlaw.io](https://kyleoutlaw.io)  |  [subatomik.co](https://subatomik.co)  
 
 
 ## About
 
-Designer and contemplative. Unhealthy book addiction @ Subatomik. 
+Designer and contemplative. Unhealthy book addiction @ Subatomik.Serving up retro media — hot medium and cold. Decentralized and open source commerce.
+Launched September 15, 2024, Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. 
 
-30+ years experience in digital design, worked for agencies including Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. Brands I've worked with include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. Currently owner and operator of Subatomik, a pioneer in decentralized commerce. [Slow Tech][Digital Detox]
+Priors: 30+ years experience in digital design, worked for agencies including Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
 
-Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. Graduate of NYU's Interactive Telecommunication Program and a contemplative at the Community of the Incarnation Community of the Incarnation, a new monastic community founded at the Cathedral of the Incarnation in Garden City, New York.
+Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. 
+
+Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. Graduate of NYU's Interactive Telecommunication Program. 
+
+Contemplative at the Community of the Incarnation Community of the Incarnation, a monastic community at the Cathedral of the Incarnation in Garden City, New York. 
 
 
 ## Skills
@@ -21,19 +26,19 @@ Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals
 ## Engagements
 
 ### SUBATOMIK | Owner + Operator | October 2023 to present
-Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. [BLOCKCHAIN][DE-FI][Developing]
+Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 ### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
-UX lead for the Mercedes-Benz account including the US and Canada passenger car websites, Mercedes me owners app, MB Vans, dealership tools and immersive experiences, and Mercedes-Benz financial services. Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Collaborated with the design and engineering teams at Daimler in Germany. Managed experience directors and designers
+User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4 out of 5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
 
 ### Razorfish/Publicis Sapient | VP, Senior Creative Group Director, Experience | May 2011 to Dec 2021
-Managed a group of 30+ UX practitioners, holding regular UX community meetings and worked with our staffing team to find the best project fit for our team members. Our design team received a level 4 out of 5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. I received an AI Ready Programme certificate from John Maeda, and two Web Accessibility Training certificates from Decque University. In 2020, MBUSA.com achieved the number one ranking in J.D. Powers’ Manufacturer’s Website Evaluation Study in both the luxury and mass market categories for the first time in the brand’s history. Pitched, won and launched new products for Sprinter Vans, Mercedes-Benz In-dealership and auto show immersive experiences, Motorola (when it was bought by Google) and UNIQLO. Additional clients included Unilever and Mondelez. 
+User experience design practice lead for the Razorfish NY office. Pitched, won and launched new products for Sprinter Vans, Mercedes-Benz In-dealership and auto show immersive experiences, Motorola (a Google company) and UNIQLO. chieved the number one ranking in J.D. Powers’ Manufacturer’s Website Evaluation Study in both the luxury and mass market categories for the first time in the brand’s history. [Mercedes-Benz][Daimler][Genesis]
 
 ### R/GA | Interaction Design Director | June 2010 to May 2011
 Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign, worked on several projects for Nike’s innovation group, and various e-commerce initiatives on Nike.com. Responsible for the creation of concept sketches and designs, detailed wireframes, task flows, user testing plans, and functional specifications. Provided leadership, training, and mentorship to other Interaction Designers and supported various pitch efforts for Nike and Unilever. [Converse][Nike]
 
 ### Razorfish | User Experience Lead | Mar 15 - Aug 16
-I was one of a small number of mobile subject matter experts and consulted on a variety of projects for Razorfish nationally. I worked with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. During this time I presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients included Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
+Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients:Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
 
 ### Worldnow | VP Design/Creative Director | March 1999 to July 2003
 Startup venture that became the nation's largest network of news and information portals with 250 local media sites, including broadcast TV, newspapers and cable. Led the creative and front-end development teams supporting sites in 120 markets affiliated with ABC, CBS, NBC, FOX, WB and UPN. I started with one designer and built up a 20+ person team with offices in New York and Dallas prior to the dotcom bust. In addition to being responsible for creating the new company’s brand identity, and overseeing visual design and copywriting, Managed a front-end technology group of five developers with expertise in several technologies including HTML, DHTML, CSS, Javascript, PHP, ASP. Clients included New York Times, Time Warner, Dispatch, Meredith, Scripps-Howard and several others. The company was eventually sold to messaging platform Frankly Media for $45 MM. [New York Times][Time Warner]
