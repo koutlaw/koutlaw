@@ -1,29 +1,44 @@
-# Kyle Outlaw | Designer + Technologist 
+# Kyle Outlaw | CV 
 
-[kyleoutlaw.io](https://kyleoutlaw.io)  |  [subatomik.co](https://subatomik.co)  
 
 
 ## About
 
-Designer and contemplative. Unhealthy book addiction @ Subatomik.Serving up retro media — hot medium and cold. Decentralized and open source commerce.
-Launched September 15, 2024, Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. 
+Designer and contemplative. Unhealthy book addiction @ Subatomik. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Decentralized and open source commerce. [subatomik.co](https://subatomik.co)  
 
-Priors: 30+ years experience in digital design, worked for agencies including Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
+## Priors
 
-Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley, and several others. 
+30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
 
-Speaker and conducted workshops at SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. Graduate of NYU's Interactive Telecommunication Program. 
+Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 
-Contemplative at the Community of the Incarnation Community of the Incarnation, a monastic community at the Cathedral of the Incarnation in Garden City, New York. 
+Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
+
+Eduation: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff. [https://rushkoff.com/] School of Visual Arts [https://sva.edu/] Computer Art + Painting 
+
+Contemplative at the Community of the Incarnation Community of the Incarnation, a monastic community at the Cathedral of the Incarnation in Garden City, New York.  
 
 
 ## Skills
 
-**+ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
-**+ Leadership:** Managing distributed teams, mentoring, art direction.
-**+ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, accessibility, mobile app design, functional specifications, user-testing.
+/ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
+/ Leadership:** Managing distributed teams, mentoring, art direction.
+/ Operating Systems: Mac OS and Linux (Raspberry Pi)
+/ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, accessibility, mobile app design, functional specifications, user-testing.
 
-## Engagements
+## Languages 
+
+/ Japanese
+/ French
+
+/ HTML/CSS
+/ JAVASCRISPT [Prototype Level]
+/ CGI Perl [Prototype Level]
+/ SQL [Prototype Level]
+
+
+## DEPLOYMENTS 2020s
+
 
 ### SUBATOMIK | Owner + Operator | October 2023 to present
 Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
@@ -37,29 +52,35 @@ User experience design practice lead for the Razorfish NY office. Pitched, won a
 ### R/GA | Interaction Design Director | June 2010 to May 2011
 Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign, worked on several projects for Nike’s innovation group, and various e-commerce initiatives on Nike.com. Responsible for the creation of concept sketches and designs, detailed wireframes, task flows, user testing plans, and functional specifications. Provided leadership, training, and mentorship to other Interaction Designers and supported various pitch efforts for Nike and Unilever. [Converse][Nike]
 
-### Razorfish | User Experience Lead | Mar 15 - Aug 16
+
+## DEPLOYMENTS 2010s
+
+### Razorfish | User Experience Lead | Mar 15 2005 - May 2010
 Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients:Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
 
 ### Worldnow | VP Design/Creative Director | March 1999 to July 2003
-Startup venture that became the nation's largest network of news and information portals with 250 local media sites, including broadcast TV, newspapers and cable. Led the creative and front-end development teams supporting sites in 120 markets affiliated with ABC, CBS, NBC, FOX, WB and UPN. I started with one designer and built up a 20+ person team with offices in New York and Dallas prior to the dotcom bust. In addition to being responsible for creating the new company’s brand identity, and overseeing visual design and copywriting, Managed a front-end technology group of five developers with expertise in several technologies including HTML, DHTML, CSS, Javascript, PHP, ASP. Clients included New York Times, Time Warner, Dispatch, Meredith, Scripps-Howard and several others. The company was eventually sold to messaging platform Frankly Media for $45 MM. [New York Times][Time Warner]
+Startup venture that became the nation's largest network of news and information portals with 250 local media sites, including broadcast TV, newspapers and cable. Led the creative and front-end development teams supporting sites in 120 markets affiliated with ABC, CBS, NBC, FOX, WB and UPN. I started with one designer and built up a 20+ person team with offices in New York and Dallas prior to the dotcom bust. Responsible for creating the new company’s brand identity, and overseeing visual design and copywriting, Managed a front-end technology group of five developers with expertise in several technologies including HTML, DHTML, CSS, Javascript, PHP, ASP. Clients included New York Times, Time Warner, Dispatch, Meredith, Scripps-Howard and several others. The company was eventually sold to messaging platform Frankly Media for $45 MM. [New York Times][Time Warner]
+
+## DEPLOYMENTS 2010s
 
 ### Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
 Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
-### Previous gigs
-Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications in Washington DC.
+### Previous gigs etc.
+Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications, Luggage sales person in Washington DC.
 
 
-## Education
+## EDU
 
 ### NYU ITP 
-M.P.S., New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, and media theory. Mentored by media theorist Douglas Rushkoff. | September 2003 to May 2005
+Masters Degree in Professional Studies, New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, programming (C+/Python/esolangs) and media theory. Mentored by media theorist Douglas Rushkoff. | September 2003 to May 2005.
 
 ### SVA
 School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. Studies focused on computer art, animation and abstract painting. 
 
 ### Syracuse University
 B.A., International Relations, Maxwell School of Citizenship with a minor in French. Syracuse University, Syracuse NY. 
+
 
 ## Certifications
 
@@ -68,6 +89,10 @@ A.I. Ready Programme | Level One | John Maeda
 Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 
 Web Accessibility Testing: Screen Readers | Deque University 
+
+TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 :pray:
+
+
 
 ## Speaking and workshops
 
@@ -92,11 +117,14 @@ SXSW Interactive, “Mobile Ubiquitous Computing and the Future of Money” | Au
 
 SXSW Interactive, “Life After the iPhone” | Austin, Texas 2008 (Organizer and Panelist) 
 
+
 ## Volunteering
 
-QTBIPOC Design, UX Bootcamp Portfolio Reviewer | 2022
+Social Media, Center for Spiritual Imagination| 2024-
 
-Day One, a nonprofit that partners with youth to end dating abuse and domestic violence. UX/UI consulting, Javascript/CSS/HTML, WordPress. | NYC 2018-present
+QTBIPOC Design, UX Bootcamp Portfolio Reviewer | 2022-2023
+
+Day One, a nonprofit that partners with youth to end dating abuse and domestic violence. UX/UI consulting, Javascript/CSS/HTML, WordPress. | NYC 2018-2023
 
 Unity Preparatory Charter School, STEM instructor | Brooklyn NY 2020-2022
 
@@ -146,3 +174,11 @@ Google Creative Sandbox
 
 Mobile Marketer of the Year
 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+## Contact
+
+Email :: [kyle@subatomik.co| 
+Shop :: http://subatomik.co
+Web :: [kyleoutlaw.io](https://kyleoutlaw.io)  | 
