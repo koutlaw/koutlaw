@@ -1,10 +1,11 @@
-# Kyle Outlaw | CV 
+# Kyle Outlaw | CV
 
 
 
 ## About
 
-Designer and contemplative. Unhealthy book addiction @ Subatomik. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Decentralized and open source commerce. [subatomik.co](https://subatomik.co)  
+Designer and contemplative. Unhealthy book addiction @ Subatomik based in Nyack NY. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Decentralized and open source commerce. [subatomik.co](https://subatomik.co)  Contemplative at the Community of the Incarnation Community of the Incarnation, a monastic community at the Cathedral of the Incarnation in Garden City, NY. 
+
 
 ## Priors
 
@@ -16,7 +17,6 @@ Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Associati
 
 Eduation: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff. [https://rushkoff.com/] School of Visual Arts [https://sva.edu/] Computer Art + Painting 
 
-Contemplative at the Community of the Incarnation Community of the Incarnation, a monastic community at the Cathedral of the Incarnation in Garden City, New York.  
 
 
 ## Skills
@@ -24,12 +24,18 @@ Contemplative at the Community of the Incarnation Community of the Incarnation, 
 / Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
 / Leadership:** Managing distributed teams, mentoring, art direction.
 / Operating Systems: Mac OS and Linux (Raspberry Pi)
-/ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, accessibility, mobile app design, functional specifications, user-testing.
+/ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, accessibility, functional specifications, user-testing.
 
 ## Languages 
 
 / Japanese
 / French
+
+Working on:
+
+/German
+/Spanish
+
 
 / HTML/CSS
 / JAVASCRISPT [Prototype Level]
@@ -64,7 +70,7 @@ Startup venture that became the nation's largest network of news and information
 ## DEPLOYMENTS 2010s
 
 ### Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
-Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
+Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
 ### Previous gigs etc.
 Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications, Luggage sales person in Washington DC.
