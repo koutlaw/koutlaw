@@ -31,7 +31,7 @@
 
 ## DEPLOYMENTS 2020s
 
-### SUBATOMIK | Owner + Operator | October 2023 to present
+🚀 :rocket: ### SUBATOMIK | Owner + Operator | October 2023 to present
 Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 ### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
