@@ -52,6 +52,8 @@ User experience design practice lead for the Razorfish NY office. Pitched, won a
 ### R/GA | Interaction Design Director | June 2010 to May 2011
 Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign, worked on several projects for Nike’s innovation group, and various e-commerce initiatives on Nike.com. Responsible for the creation of concept sketches and designs, detailed wireframes, task flows, user testing plans, and functional specifications. Provided leadership, training, and mentorship to other Interaction Designers and supported various pitch efforts for Nike and Unilever. [Converse][Nike]
 
+## DEPLOYMENTS 2000s
+
 ### Razorfish | User Experience Lead | Mar 15 2005 - May 2010
 Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients:Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
 
@@ -63,7 +65,7 @@ Startup venture that became the nation's largest network of news and information
 ### Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
 Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
-### Previous gigs etc.
+### Previous engagements 
 Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications, Luggage sales person in Washington DC.
 
 
