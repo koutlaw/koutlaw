@@ -4,8 +4,8 @@
 
 ## About
 
-** Designer and contemplative. Unhealthy book addiction @ Subatomik based in Nyack NY. 
-** Contemplative at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
++ Designer and contemplative. Unhealthy book addiction @ Subatomik based in Nyack NY. 
++ Contemplative at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
@@ -18,28 +18,22 @@
 
 ## Skills
 
-/ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
-/ Leadership:** Managing distributed teams, mentoring, art direction.
-/ Operating Systems: Mac OS and Linux (Raspberry Pi)
-/ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, accessibility, functional specifications, user-testing.
++ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
++ Leadership:** Managing distributed teams, mentoring, art direction.
++ Operating Systems: Mac OS and Linux (Raspberry Pi)
++ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, accessibility, functional specifications, user-testing.
 
-## Languages and Proficiencies
+## Languages 
 
-/ Japanese
-/ French
++ Japanese
++ French
++ In progress: Spanish, German
 
-Working on:
-
-/German
-/Spanish
-
-
-/ HTML/CSS
-/ JAVASCRISPT [Prototype Level]
-/ CGI Perl [Prototype Level]
-/ SQL [Prototype Level]
-/ CMS WordPress | Squarespace | Shopify | Meta Business Suite
-
++ HTML/CSS
++ JAVASCRISPT [Prototype Level]
++ CGI Perl [Prototype Level]
++ SQL [Prototype Level]
++ CMS WordPress | Squarespace | Shopify | Meta Business Suite
 
 
 ## DEPLOYMENTS 2020s
@@ -87,13 +81,10 @@ B.A., International Relations, Maxwell School of Citizenship with a minor in Fre
 
 ## Certifications
 
-A.I. Ready Programme | Level One | John Maeda 
-
-Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
-
-Web Accessibility Testing: Screen Readers | Deque University 
-
-TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 :pray:
++ A.I. Ready Programme | Level One | John Maeda 
++ Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
++ Web Accessibility Testing: Screen Readers | Deque University 
++ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 :pray:
 
 
 
