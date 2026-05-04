@@ -18,23 +18,16 @@
 
 ## Skills
 
-+ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching and animation.
-+ Leadership:** Managing distributed teams, mentoring, art direction.
++ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching, animation, accessibility, functional specifications, user research and testing.
++ Leadership:** Managing highly-distributed teams, mentoring, art direction and editing.
 + Operating Systems: Mac OS and Linux (Raspberry Pi)
-+ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, accessibility, functional specifications, user-testing.
++ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
 
-## Languages 
+## Languages  
 
 + Japanese
 + French
 + In progress: Spanish, German
-
-+ HTML/CSS
-+ JAVASCRISPT [Prototype Level]
-+ CGI Perl [Prototype Level]
-+ SQL [Prototype Level]
-+ CMS WordPress | Squarespace | Shopify | Meta Business Suite
-
 
 ## DEPLOYMENTS 2020s
 
