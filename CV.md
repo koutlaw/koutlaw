@@ -31,31 +31,31 @@
 
 ## DEPLOYMENTS 2020s
 
-🚀 :rocket: ### SUBATOMIK | Owner + Operator | October 2023 to present
+🚀 SUBATOMIK | Owner + Operator | October 2023 to present
 Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
-### Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
+🚀 Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4 out of 5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
 
 ## DEPLOYMENTS 2010s
 
-### Razorfish/Publicis Sapient | VP, Senior Creative Group Director, Experience | May 2011 to Dec 2021
+🚀 Razorfish/Publicis Sapient | VP, Senior Creative Group Director, Experience | May 2011 to Dec 2021
 User experience design practice lead for the Razorfish NY office. Pitched, won and launched new products for Sprinter Vans, Mercedes-Benz In-dealership and auto show immersive experiences, Motorola (a Google company) and UNIQLO. chieved the number one ranking in J.D. Powers’ Manufacturer’s Website Evaluation Study in both the luxury and mass market categories for the first time in the brand’s history. [Mercedes-Benz][Daimler][Genesis]
 
-### R/GA | Interaction Design Director | June 2010 to May 2011
+🚀 R/GA | Interaction Design Director | June 2010 to May 2011
 Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign, worked on several projects for Nike’s innovation group, and various e-commerce initiatives on Nike.com. Responsible for the creation of concept sketches and designs, detailed wireframes, task flows, user testing plans, and functional specifications. Provided leadership, training, and mentorship to other Interaction Designers and supported various pitch efforts for Nike and Unilever. [Converse][Nike]
 
 ## DEPLOYMENTS 2000s
 
-### Razorfish | User Experience Lead | Mar 15 2005 - May 2010
+🚀  Razorfish | User Experience Lead | Mar 15 2005 - May 2010
 Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients:Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
 
-### Worldnow | VP Design/Creative Director | March 1999 to July 2003
+🚀 Worldnow | VP Design/Creative Director | March 1999 to July 2003
 Startup venture that became the nation's largest network of news and information portals with 250 local media sites, including broadcast TV, newspapers and cable. Led the creative and front-end development teams supporting sites in 120 markets affiliated with ABC, CBS, NBC, FOX, WB and UPN. I started with one designer and built up a 20+ person team with offices in New York and Dallas prior to the dotcom bust. Responsible for creating the new company’s brand identity, and overseeing visual design and copywriting, Managed a front-end technology group of five developers with expertise in several technologies including HTML, DHTML, CSS, Javascript, PHP, ASP. Clients included New York Times, Time Warner, Dispatch, Meredith, Scripps-Howard and several others. The company was eventually sold to messaging platform Frankly Media for $45 MM. [New York Times][Time Warner]
 
 ## DEPLOYMENTS 1990s
 
-### Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
+🚀  Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
 Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
 ### Previous engagements 
