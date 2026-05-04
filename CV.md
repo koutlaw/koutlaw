@@ -13,7 +13,7 @@
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
 + Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
-+ Education: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff. [https://rushkoff.com/] School of Visual Arts [https://sva.edu/] Computer Art + Painting 
++ Education: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff.School of Visual Arts Computer Art + Painting 
 
 
 ## Skills
@@ -87,7 +87,6 @@ B.A., International Relations, Maxwell School of Citizenship with a minor in Fre
 + Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 + Web Accessibility Testing: Screen Readers | Deque University 
 + TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 :pray:
-
 
 
 ## Speaking and workshops
