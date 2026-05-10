@@ -5,8 +5,8 @@
 ## About
 
 + Designer and contemplative.
-+ Unhealthy book addiction @ Subatomik based in Nyack NY. 
-+ Contemplative at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
++ Unhealthy book addiction @ Subatomik based in Nyack NY. Subatomik is an early-stage decentralized commerce project combining physical book retail with Bitcoin treasury management and analog resistance to platform monopolies.
++ Contemplative Monastic at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
