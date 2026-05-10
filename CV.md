@@ -4,7 +4,8 @@
 
 ## About
 
-+ Designer and contemplative. Unhealthy book addiction @ Subatomik based in Nyack NY. 
++ Designer and contemplative.
++ Unhealthy book addiction @ Subatomik based in Nyack NY. 
 + Contemplative at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
 
 
