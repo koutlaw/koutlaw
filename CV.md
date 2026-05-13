@@ -19,10 +19,10 @@
 
 ## Skills
 
-+ Design:** User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching, animation, accessibility, functional specifications, user research and testing.
-+ Leadership:** Managing highly-distributed teams, mentoring, art direction and editing.
++ Design: User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching, animation, accessibility, functional specifications, user research and testing.
++ Leadership: Managing highly-distributed teams, mentoring, art direction and editing.
 + Operating Systems: Mac OS and Linux (Raspberry Pi)
-+ Technical:** HTML/Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
++ Technical: [prototype-level proficiency] HTML/CSS, Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
 
 ## Languages  
 
@@ -57,7 +57,7 @@ Startup venture that became the nation's largest network of news and information
 ## DEPLOYMENTS 1990s
 
 🚀  Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
-Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. I started as an Art Director and was promoted to Senior Art Director. I was responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
+Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. Responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
 
 ### Previous engagements 
 Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications, Luggage sales person in Washington DC.
@@ -80,7 +80,7 @@ B.A., International Relations, Maxwell School of Citizenship with a minor in Fre
 + A.I. Ready Programme | Level One | John Maeda 
 + Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 + Web Accessibility Testing: Screen Readers | Deque University 
-+ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 :pray:
++ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 
 
 
 ## Speaking and workshops
