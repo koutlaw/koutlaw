@@ -6,7 +6,7 @@
 
 + Designer and contemplative with an unhealthy book addiction @ Subatomik based in Nyack NY.
 + Subatomik is an early-stage decentralized commerce project combining physical book retail with Bitcoin treasury management and analog resistance to platform monopolies.
-+ Monastic at the Community of the gIncarnation, Garden City, NY. 
++ Monastic at the Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
