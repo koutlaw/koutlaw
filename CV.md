@@ -2,11 +2,11 @@
 
 
 
-## About
+## High Level
 
-+ Designer and contemplative.
-+ Unhealthy book addiction @ Subatomik based in Nyack NY. Subatomik is an early-stage decentralized commerce project combining physical book retail with Bitcoin treasury management and analog resistance to platform monopolies.
-+ Contemplative Monastic at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
++ Designer and contemplative with an unhealthy book addiction @ Subatomik based in Nyack NY.
++ Subatomik is an early-stage decentralized commerce project combining physical book retail with Bitcoin treasury management and analog resistance to platform monopolies.
++ Monastic at the Community of the Incarnation Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
@@ -14,7 +14,7 @@
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
 + Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
-+ Education: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff.School of Visual Arts Computer Art + Painting 
++ Education: Graduate of NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. 3D/Virtual Reality, and media theory with Douglas Rushkoff.School of Visual Arts Computer Art + Painting
 
 
 ## Skills
@@ -33,7 +33,7 @@
 ## DEPLOYMENTS 2020s
 
 🚀 SUBATOMIK | Owner + Operator | October 2023 to present
-Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024, is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
+Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 🚀 Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4 out of 5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
