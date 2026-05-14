@@ -4,25 +4,26 @@
 
 ## High Level
 
-+ Designer and contemplative with an unhealthy book addiction @ Subatomik based in Nyack NY.
-+ Subatomik is an early-stage decentralized commerce project combining physical book retail with analog resistance to platform monopolies.
++ Designer and contemplative with an unhealthy book addiction @ Subatomik
+
 + Monastic at the Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
 
-+ 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups abd incubators. 
-+ Brands: include Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
++ 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups and incubators. 
++ Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
-+ Education: Masters Degree NYU's Interactive Telecommunication Program. Studies in mobile ubiquitous computing. Design for 3D/Virtual Reality, and media theory. School of Visual Arts (SVA) Computer Art + Painting. International Relations Syracuse University, Maxell School: Russia and Eastern Europe; minor in French language stufies.
++ Education: Masters Degree NYU's Interactive Telecommunication Program. Mobile ubiquitous computing, 3D/Virtual Reality, and media theory. School of Visual Arts (SVA) Computer Art + Painting. International Relations Syracuse University, Maxwell School: Russia and Eastern Europe; minor in French.
 
 
 ## Skills
 
 + Design: User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching, animation, accessibility, functional specifications, user research and testing.
-+ Leadership: Managing highly-distributed teams, mentoring, art direction and editing.
+
 + Operating Systems: Mac OS and Linux (Raspberry Pi)
-+ Technical: [prototype-level proficiency] HTML/CSS, Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
+  
++ Programming: HTML/CSS, Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
 
 ## Languages  
 
@@ -33,15 +34,15 @@
 ## DEPLOYMENTS 2020s
 
 🚀 SUBATOMIK | Owner + Operator | October 2023 to present
-Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Quite possbly one of the first bookstores on the blockchain. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, particularly in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
+Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 🚀 Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
-User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4 out of 5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
+User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4/5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
 
 ## DEPLOYMENTS 2010s
 
 🚀 Razorfish/Publicis Sapient | VP, Senior Creative Group Director, Experience | May 2011 to Dec 2021
-User experience design practice lead for the Razorfish NY office. Pitched, won and launched new products for Sprinter Vans, Mercedes-Benz In-dealership and auto show immersive experiences, Motorola (a Google company) and UNIQLO. chieved the number one ranking in J.D. Powers’ Manufacturer’s Website Evaluation Study in both the luxury and mass market categories for the first time in the brand’s history. [Mercedes-Benz][Daimler][Genesis]
+User experience design practice lead for the Razorfish NY office. Pitched, won and launched new products for Sprinter Vans, Mercedes-Benz In-dealership and auto show immersive experiences, Motorola (a Google company) and UNIQLO. Achieved the number one ranking in J.D. Powers’ Manufacturer’s Website Evaluation Study in both the luxury and mass market categories for the first time in the brand’s history. [Mercedes-Benz][Daimler][Genesis]
 
 🚀 R/GA | Interaction Design Director | June 2010 to May 2011
 Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign, worked on several projects for Nike’s innovation group, and various e-commerce initiatives on Nike.com. Responsible for the creation of concept sketches and designs, detailed wireframes, task flows, user testing plans, and functional specifications. Provided leadership, training, and mentorship to other Interaction Designers and supported various pitch efforts for Nike and Unilever. [Converse][Nike]
@@ -49,7 +50,7 @@ Clients included Converse and Nike. Lead the UX/UI for the Converse.com redesign
 ## DEPLOYMENTS 2000s
 
 🚀  Razorfish | User Experience Lead | Mar 15 2005 - May 2010
-Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech startup which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients:Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential.[Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
+Mobile subject matter expert, consulted on a variety of projects for Razorfish nationally. Startup mode with Citibank, Microsoft and Morningstar to launch a fintech product which was eventually sold to Capital One. Presented at SXSW three years in a row on topics such as mobile UX and virtual currency, delivered a mobile UX manifesto at Mediabistro’s Think Mobile conference, and was a panelist at OMMA in New York and Los Angeles. Pitched and won a Ralph Lauren assignment which included creating a mobile app and in-store experience and saw it through to launch, resulting in our client being awarded Mobile Marketer of the year. Additional clients: Tory Burch, Victoria’s Secret, Morgan Stanley, EMC, and Prudential. [Ralph Lauren][Morgan Stanley][Microsoft][Citibank]
 
 🚀 Worldnow | VP Design/Creative Director | March 1999 to July 2003
 Startup venture that became the nation's largest network of news and information portals with 250 local media sites, including broadcast TV, newspapers and cable. Led the creative and front-end development teams supporting sites in 120 markets affiliated with ABC, CBS, NBC, FOX, WB and UPN. Started with one designer and built up a 20+ person team with offices in New York and Dallas prior to the dotcom bust. Responsible for creating brand identity, visual design and copywriting, Managed a front-end technology group of five developers with expertise in HTML/CSS, Javascript, PHP, ASP. Clients included New York Times, Time Warner, Dispatch, Meredith, Scripps-Howard and several others. The company was eventually sold to messaging platform Frankly Media for $45 MM. [New York Times][Time Warner]
@@ -57,7 +58,7 @@ Startup venture that became the nation's largest network of news and information
 ## DEPLOYMENTS 1990s
 
 🚀  Modem Media/Poppe Tyson | Senior Art Director | January 1996 to March 1999
-Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. Responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media. It was renamed Modem Media Poppe Tyson, and eventually acquired by DIgitas.
+Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was one of the first digital agencies coming out of the dotcom boom. Responsible for the direction of visual design for large-scale web platforms and digital marketing initiatives. Key clients included IBM, Hasbro, Johnson, Priceline, and Johnson & Johnson, and Kraft. Poppe Tyson was eventually acquired by True North Communications and merged Modem Media, renamed Modem Media Poppe Tyson, and eventually acquired by Digitas.
 
 ### Previous engagements 
 Freelance graphic designer at Unitel Video, community outreach staff member at New York Public Interest Research Group (NYPIRG), ESL Instructor at Shunan English School and Kumon in Yamaguchi, Japan, Tech Support at MCI Telecommunications, Luggage sales person in Washington DC.
@@ -69,10 +70,10 @@ Freelance graphic designer at Unitel Video, community outreach staff member at N
 Masters Degree in Professional Studies, New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, programming (C+/Python/esolangs) and media theory. Mentored by media theorist Douglas Rushkoff. | September 2003 to May 2005.
 
 ### SVA
-School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. Studies focused on computer art, animation and abstract painting. 
+School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. Studies focused on computer art, animation and expressionist painting. 
 
 ### Syracuse University
-B.A., International Relations, Maxwell School of Citizenship with a minor in French. Syracuse University, Syracuse NY. 
+B.A., International Relations, Maxwell School of Citizenship, minor in French. Syracuse University, Syracuse NY. 
 
 
 ## Certifications
@@ -80,7 +81,7 @@ B.A., International Relations, Maxwell School of Citizenship with a minor in Fre
 + A.I. Ready Programme | Level One | John Maeda 
 + Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 + Web Accessibility Testing: Screen Readers | Deque University 
-+ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 🙏 
++ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 
 
 
 ## Speaking and workshops
