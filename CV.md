@@ -14,7 +14,7 @@
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups and incubators. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
-+ Education: Masters Degree NYU's Interactive Telecommunication Program. Mobile ubiquitous computing, 3D/Virtual Reality, and media theory. School of Visual Arts (SVA) Computer Art + Painting. International Relations Syracuse University, Maxwell School: Russia and Eastern Europe; minor in French.
++ Education: Masters Degree NYU's Interactive Telecommunication Program. Mobile ubiquitous computing, 3D/Virtual Reality, and media theory. School of Visual Arts (SVA) Computer Art + Painting. Syracuse University, International Relations, Maxwell School: Russia and Eastern Europe; minor in French.
 
 
 ## Skills
