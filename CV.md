@@ -4,7 +4,7 @@
 
 ## High Level
 
-+ Designer and contemplative with an unhealthy book addiction @ Subatomik
++ Owner + Operator @ Subatomik
 
 + Monastic at the Community of the Incarnation, Garden City, NY. 
 
@@ -76,12 +76,13 @@ School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. 
 B.A., International Relations, Maxwell School of Citizenship, minor in French. Syracuse University, Syracuse NY. 
 
 
-## Certifications
+## Training + Certifications
 
 + A.I. Ready Programme | Level One | John Maeda 
 + Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 + Web Accessibility Testing: Screen Readers | Deque University 
-+ TM | David Lynch Foundation for Consciousness-Based Education and World Peace 
++ AMG Driving Academy | Performance On Track Experience | Laguna Seca Raceway, Monterey CA
++ Transcendental Meditation (TM) | David Lynch Foundation for Consciousness-Based Education and World Peace 
 
 
 ## Speaking and workshops
