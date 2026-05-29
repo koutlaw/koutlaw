@@ -4,9 +4,9 @@
 
 ## High Level
 
-+ Owner + Operator @ Subatomik
++ Owner + Operator @ Subatomik | Est. 2023
 
-+ Monastic at the Community of the Incarnation, Garden City, NY. 
++ Monastic | Community of the Incarnation, Garden City, NY. 
 
 
 ## Priors
