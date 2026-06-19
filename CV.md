@@ -4,7 +4,7 @@
 
 ## High Level
 
-+ Owner + Operator @ Subatomik | Est. 2023
++ Owner + Operator @ Subatomik. Decentralized open source commerce. Est. 2023. 
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups and incubators. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
@@ -14,10 +14,8 @@
 ## Skills
 
 + Design: User research, UX/UI design, wireframes, art direction, copywriting, prototyping, 3D modeling, sketching, animation, accessibility, functional specifications, user research and testing.
-
-+ Operating Systems: Mac OS and Linux (Raspberry Pi)
-  
 + Programming: HTML/CSS, Javascript, CGI/Perl, UNIX, blockchain, encryption, custom PC mods, CMS: WordPress, Shopify, Squarespace.
++ Operating Systems: Mac OS, Linux, Raspberry Pi
 
 ## Languages  
 
