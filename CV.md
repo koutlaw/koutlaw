@@ -4,8 +4,8 @@
 
 ## High Level
 
-+ Owner + Operator @ Subatomik. Decentralized open source commerce. Est. 2023. 
-+ 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Sapient, Razorfish, R/GA, and various startups and incubators. 
++ Owner + Operator @ Subatomik. Web3 online bookstore est. 2023. 
++ 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Groupe, Razorfish, R/GA, and various startups and incubators. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
 + Education: Masters Degree NYU's Interactive Telecommunication Program. Mobile ubiquitous computing, 3D/Virtual Reality, and media theory. School of Visual Arts (SVA) Computer Art + Painting. Syracuse University, International Relations, Maxwell School: Russia and Eastern Europe; minor in French.
@@ -25,7 +25,7 @@
 ## DEPLOYMENTS 
 
 🚀 SUBATOMIK | Owner + Operator | October 2023 to present
-Retro-media bistro serving up hot, medium and cold analog content since 2023. Decentralized open source commerce. Launched September 15, 2024. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
+Retro-media bistro serving up hot, medium and cold analog content since 2023. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 🚀 Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4/5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
@@ -49,7 +49,7 @@ Poppe Tyson Interactive — owned by Bozell, Jacobs, Kenyon & Eckhardt — was o
 ## EDU
 
 ### NYU ITP 
-Masters Degree in Professional Studies, New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, programming (C+/Python/esolangs) and media theory. Mentored by media theorist Douglas Rushkoff. | September 2003 to May 2005.
+Masters Degree in Professional Studies, New York University Tisch School of the Arts, Interactive Telecommunications Program (ITP), New York, NY. Thesis and work focused on mobile computing, virtual reality, programming and media theory. | September 2003 to May 2005.
 
 ### SVA
 School of Visual Arts, Computer Art Department, New York, NY. 1 year BFA track. Studies focused on computer art, animation and expressionist painting. 
