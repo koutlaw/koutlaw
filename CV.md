@@ -4,7 +4,7 @@
 
 ## High Level
 
-+ Owner + Operator @ Subatomik. Web3 commerce and media production platform. 
++ Owner + Operator @ Subatomik. an online bookstore specializing in art and technology publications. 
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Groupe, Razorfish, R/GA, and various startups and incubators. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
@@ -25,7 +25,7 @@
 ## DEPLOYMENTS 
 
 🚀 SUBATOMIK | Owner + Operator | October 2023 to present
-Retro-media bistro serving up hot, medium and cold analog content since 2023. Subatomik is a Web3 online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
+Retro-media bistro serving up hot, medium and cold analog content since 2023. Subatomik is a specialty online bookstore and cultural hub targeting enthusiasts in technology, cryptography, mysticism, and unexplained phenomena. Subatomik has demonstrated a demand for a non-algorithmically driven decentralized commerce experience, in an age of surveillance capitalism where preserving physical books is crucial. Unlike digital e-books, which enable platforms like Amazon to track every page turn, highlight, and reading duration to commodify personal data for targeted advertising and behavioral prediction, physical books provide untraceable privacy, safeguarding intellectual autonomy and resisting the pervasive data extraction that undermines human freedom. [BLOCKCHAIN][DE-FI][Developing]
 
 🚀 Publicis Digital Experiences Group | SVP Executive Experience Director | January 2022 to February 2023
 User Experience lead for Mercedes-Benz US and Canada. Scope covered passenger car websites including ecommerce, owners IOS and Android apps, Sprinter Vans, dealership tools/immersive experiences, and Mercedes-Benz financial services.  Initiated immersive user research, concept testing, prototyping, usability testing, and data-driven design initiatives. Received level 4/5 ranking in InVision’s Design Maturity report for experimentation and data-driven design, which was significantly higher than average compared to 234 companies with 10,000+ employees. Pitched and won: Genesis [Hyundai]
