@@ -4,7 +4,7 @@
 
 ## High Level
 
-+ Owner + Operator @ Subatomik, an online bookstore specializing in art and technology publications. 
++ Owner + Operator @ Subatomik, an independent online bookstore and rare media retailer established in 2023.
 + 30+ years experience in Hell's Kitchen NYC; digital design, shops include Publicis Groupe, Razorfish, R/GA, and various startups and incubators. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
