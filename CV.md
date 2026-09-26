@@ -8,7 +8,7 @@
 + 30+ years experience in digital design, shops include Publicis Groupe, Razorfish, R/GA. 
 + Brands: Mercedes-Benz, Sprinter, smart car, Google, Motorola, UNIQLO, Unilever, Nike, Converse, Ralph Lauren, Victoria's Secret, Tory Burch, Citi, Microsoft, Morgan Stanley and more. 
 + Speaking and Workshops:  SXSW, IXDA, the User Experience Professionals Association, the Internet Freedom Festival, and several other industry events. 
-+ Education: Masters Degree NYU's Interactive Telecommunication Program. School of Visual Arts (SVA) Computer Art + Painting. Syracuse University, International Relations.
++ Education: Masters Degree NYU's Interactive Telecommunication Program. School of Visual Arts (SVA) Computer Art + Painting. Syracuse University, BA.
 
 
 ## DEPLOYMENTS 
