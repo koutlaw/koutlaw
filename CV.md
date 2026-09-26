@@ -49,7 +49,7 @@ B.A., International Relations, Maxwell School of Citizenship, minor in French. S
 
 ## Training + Certifications
 
-+ A.I. Ready Programme | Level One | John Maeda 
++ A.I. Ready Programme | Level One | Publicis Sapient
 + Accessibility Fundamentals - Disabilities, Guidelines, and Laws | Deque University 
 + Web Accessibility Testing: Screen Readers | Deque University 
 + AMG Driving Academy | Performance On Track Experience | Laguna Seca Raceway, Monterey CA
